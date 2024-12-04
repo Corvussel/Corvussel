@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/usuario/repositorio/blob/main/banner.avif](https://github.com/Corvussel/Corvussel/blob/main/banner.avif)?raw=true" alt="Banner" width="800">
+  <img src="https://github.com/Corvussel/Corvussel/blob/main/banner.avif?raw=true" alt="Banner" width="800">
 </div>
 
 https://github.com/Corvussel/Corvussel/blob/main/banner.avif
