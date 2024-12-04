@@ -8,9 +8,7 @@
 </div>
 
   
-<div align="center">
- 
-  <h3>🚀 Desarrollador de Software</h3>
+<div align="center">  
   <p>Apasionado por crear soluciones tecnológicas que transformen el mundo 🌍.</p>
 </div>
 
