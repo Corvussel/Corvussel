@@ -1,6 +1,7 @@
- 
-https://github.com/Corvussel/Corvussel/blob/main/banner.avif
-
+<div align="center">
+  <img src="https://github.com/Corvussel/Corvussel/blob/main/banner.avif?raw=true" alt="Banner" width="800">
+</div>
+  
 <div align="center">
   <h1>👋 Hola, soy <span style="color: #4CAF50;">Flores</span> 🌟</h1>
   <h3>🚀 Desarrollador de Software | 💻 Innovador en Tecnología</h3>
