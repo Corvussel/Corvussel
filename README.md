@@ -1,6 +1,7 @@
 <div align="center">
-   <h1>👋 Hi, I'm🌟</h1>
+   <h1>👋 Hola, yo soy 🌟</h1>
 </div>
+
 
 <div align="center">
   <img src="https://github.com/Corvussel/Corvussel/blob/main/github-header-image (1).png?raw=true" alt="Banner" style="height: 300px; width: auto; border-radius: 15px;">
