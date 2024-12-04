@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Corvussel/Corvussel/blob/main/banner.avif?raw=true" alt="Banner" style="height: 300px; width: auto; border-radius: 15px;">
+  <img src="https://github.com/Corvussel/Corvussel/blob/main/github-header-image.png?raw=true" alt="Banner" style="height: 300px; width: auto; border-radius: 15px;">
 </div>
 
 
