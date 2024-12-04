@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Corvussel/Corvussel/blob/main/banner.avif?raw=true" alt="Banner" width="800">
-</div>
-
+ 
 https://github.com/Corvussel/Corvussel/blob/main/banner.avif
 
 <div align="center">
