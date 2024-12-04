@@ -1,12 +1,15 @@
 <div align="center">
+   <h1>👋 Hola, soy  🌟</h1>
+</div>
+
+<div align="center">
   <img src="https://github.com/Corvussel/Corvussel/blob/main/github-header-image (1).png?raw=true" alt="Banner" style="height: 300px; width: auto; border-radius: 15px;">
 </div>
 
-
   
 <div align="center">
-  <h1>👋 Hola, soy <span style="color: #4CAF50;">Flores</span> 🌟</h1>
-  <h3>🚀 Desarrollador de Software | 💻 Innovador en Tecnología</h3>
+ 
+  <h3>🚀 Desarrollador de Software</h3>
   <p>Apasionado por crear soluciones tecnológicas que transformen el mundo 🌍.</p>
 </div>
 
