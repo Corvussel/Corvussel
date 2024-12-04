@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="[https://i.imgur.com/0yJhuIh.png](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1733327647~exp=1733331247~hmac=b584c4206dbcdd7929e2ec3074192c835616cc407529b1627462e42114fe754c&w=740)" alt="banner" width="100%" />
+  <img src="https://i.imgur.com/MfZmUMG.png" alt="Banner tecnológico" width="800">
 </div>
+
 
 <div align="center">
   <h1>👋 Hola, soy <span style="color: #4CAF50;">Flores</span> 🌟</h1>
