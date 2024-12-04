@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/MfZmUMG.png" alt="Banner tecnológico" width="800">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Logo_of_GitHub.svg/1200px-Logo_of_GitHub.svg.png" alt="Banner tecnológico" width="800">
 </div>
 
 
