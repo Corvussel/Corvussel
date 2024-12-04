@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.imgur.com/kCzEsCR.jpg" alt="Technological Banner" width="100%" height="200px">
+  <img src="https://images.unsplash.com/photo-1547658718-dfa0a1a2a859?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHRlY2hub2xvZ3l8ZW58MHx8fHwxNjk5Mzc2NTUy&ixlib=rb-4.0.3&q=80&w=1080" 
+       alt="Technological Banner" width="100%" height="200px" style="border-radius: 10px;">
 </div>
 
 <div align="center">
