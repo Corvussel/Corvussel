@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>👋 Hola, Yo Soy 🌟</h1>
+   <h1>👋 Hola, Yo soy 🌟</h1>
 </div>
 
 
