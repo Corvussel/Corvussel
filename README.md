@@ -1,25 +1,25 @@
- <div align="center">
-  <h1>🌟 Hola, soy Flores 🌟</h1>
+<div align="center">
+  <img src="https://i.imgur.com/0yJhuIh.png" alt="banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url" alt="profile banner" width="600">
+  <h1>🌟 Hola, soy Flores 🌟</h1>
+  <h3>🚀 Desarrollador de Software | 💻 Apasionado por la Tecnología</h3>
 </div>
 
 ---
 
-### 👋 Hi, I’m @Corvussel  
-- 🎯 **Apasionado por:** Desarrollo de software, diseño creativo, y proyectos innovadores.  
-- 🛠️ **Habilidades:** Front-end, back-end, diseño de sistemas y más.  
+### 👋 Sobre mí  
+- 🎯 **Apasionado por:** Desarrollo de software, diseño creativo y proyectos innovadores.  
 - 📍 **Ubicación:** Perú.  
-- 🌱 **Actualmente aprendiendo:** Spring boot.     
+- 🌱 **Actualmente aprendiendo:** Spring Boot.  
+- 🎨 **Hobbies:** Resolución de problemas, diseño UI/UX y exploración tecnológica.  
 
 ---
 
 <div align="center">
   <h2>✨ Tecnologías que uso ✨</h2>
 </div>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -32,8 +32,18 @@
 ---
 
 <div align="center">
-  <h2>📫 Conéctate conmigo 📫</h2> 
+  <h2>📫 Conéctate conmigo 📫</h2>
   <a href="mailto:russelfloressolano900@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Corvussel&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corvussel&layout=compact&theme=radical" alt="Top Langs" width="49%"/>
 </div>
