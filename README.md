@@ -1,24 +1,28 @@
 <div align="center">
-  <img src="https://i.imgur.com/0yJhuIh.png" alt="banner" width="100%" />
+  <img src="https://i.imgur.com/ZFn7fqI.jpg" alt="Technological Banner" width="100%" height="200px">
 </div>
 
 <div align="center">
-  <h1>🌟 Hola, soy Flores 🌟</h1>
-  <h3>🚀 Desarrollador de Software | 💻 Apasionado por la Tecnología</h3>
+  <h1>👋 Hola, soy <span style="color: #4CAF50;">Flores</span> 🌟</h1>
+  <h3>🚀 Desarrollador de Software | 💻 Innovador en Tecnología</h3>
+  <p>Apasionado por crear soluciones tecnológicas que transformen el mundo 🌍.</p>
 </div>
 
 ---
 
-### 👋 Sobre mí  
-- 🎯 **Apasionado por:** Desarrollo de software, diseño creativo y proyectos innovadores.  
+<div align="center">
+  <h2>💡 Sobre mí</h2>
+</div>
+
+- 🎯 **Pasión:** Desarrollo de software, diseño creativo y proyectos innovadores.  
 - 📍 **Ubicación:** Perú.  
-- 🌱 **Actualmente aprendiendo:** Spring Boot.  
-- 🎨 **Hobbies:** Resolución de problemas, diseño UI/UX y exploración tecnológica.  
+- 🌱 **Actualmente aprendiendo:** **Spring Boot** y metodologías DevOps.  
+- 💬 **¿Por qué colaborar conmigo?** Soy un solucionador de problemas con un enfoque creativo.  
 
 ---
 
 <div align="center">
-  <h2>✨ Tecnologías que uso ✨</h2>
+  <h2>🛠️ Tecnologías en uso</h2>
 </div>
 
 <div align="center">
@@ -32,7 +36,18 @@
 ---
 
 <div align="center">
-  <h2>📫 Conéctate conmigo 📫</h2>
+  <h2>📊 Mis estadísticas de GitHub</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Corvussel&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corvussel&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Conéctate conmigo</h2>
   <a href="mailto:russelfloressolano900@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -44,6 +59,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Corvussel&show_icons=true&theme=radical" alt="GitHub Stats" height="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corvussel&layout=compact&theme=radical" alt="Top Langs" height="49%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=🌟+Transformando+ideas+en+código+🌟;💻+Desarrollo+tecnológico+con+propósito+💻;🚀+Innovación+y+creatividad+🚀;" alt="Typing SVG">
 </div>
