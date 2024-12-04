@@ -44,6 +44,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Corvussel&show_icons=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corvussel&layout=compact&theme=radical" alt="Top Langs" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Corvussel&show_icons=true&theme=radical" alt="GitHub Stats" height="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corvussel&layout=compact&theme=radical" alt="Top Langs" height="49%"/>
 </div>
