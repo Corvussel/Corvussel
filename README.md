@@ -19,7 +19,6 @@
 </div>
 
 - 🎯 **Pasión:** Desarrollo de software, diseño creativo y proyectos innovadores.  
-- 📍 **Ubicación:** Perú.  
 - 🌱 **Actualmente aprendiendo:** **Spring Boot** y metodologías DevOps.  
 - 💬 **¿Por qué colaborar conmigo?** Soy un solucionador de problemas con un enfoque creativo.  
 
