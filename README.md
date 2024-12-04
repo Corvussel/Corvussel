@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Logo_of_GitHub.svg/1200px-Logo_of_GitHub.svg.png" alt="Banner tecnológico" width="800">
+  <img src="[https://github.com/usuario/repositorio/blob/main/banner.avif](https://github.com/Corvussel/Corvussel/blob/main/banner.avif)?raw=true" alt="Banner" width="800">
 </div>
 
+https://github.com/Corvussel/Corvussel/blob/main/banner.avif
 
 <div align="center">
   <h1>👋 Hola, soy <span style="color: #4CAF50;">Flores</span> 🌟</h1>
@@ -51,10 +52,7 @@
   <h2>🌐 Conéctate conmigo</h2>
   <a href="mailto:russelfloressolano900@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  </a> 
 </div>
 
 ---
